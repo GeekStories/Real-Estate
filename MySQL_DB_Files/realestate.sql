@@ -155,13 +155,6 @@ CREATE TABLE `users` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
--- Dumping data for table `users`
---
-
-INSERT INTO `users` (`id`, `username`, `email`, `password`, `role_id`, `company_id`, `wishlist`) VALUES
-(1, 'DamonPitkethley', 'damonpitkethley53@gmail.com', '$2y$10$wVxd45670JvlIyyxrpB6s.WLbo9oaJH/Une7EbbQZ6nkTi6PRhujS', 3, 1, '');
-
---
 -- Indexes for dumped tables
 --
 
