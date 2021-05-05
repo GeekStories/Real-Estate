@@ -1,0 +1,17 @@
+@font-face {
+    font-family: arima-regular;
+    src: url(fonts/ArimaMadurai-Regular.ttf);
+
+    font-family: arima-thin;
+    src: url(fonts/ArimaMadurai-Thin.ttf);
+
+    font-family: arima-light;
+    src: url(fonts/ArimaMadurai-Light.ttf);
+
+    font-family: arima-medium;
+    src: url(fonts/ArimaMadurai-Medium.ttf);
+
+    font-family: arima-black;
+    src: url(fonts/ArimaMadurai-Black.ttf);
+  }
+

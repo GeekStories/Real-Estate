@@ -1,0 +1,66 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "dfd31e3ee1323ed06be61f21d85401ff",
+    "packages": [
+        {
+            "name": "eihror/compress-image",
+            "version": "v0.0.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/eihror/compress-image.git",
+                "reference": "1efa57d1180e6018b1b7482db5d41e5f721dc509"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/eihror/compress-image/zipball/1efa57d1180e6018b1b7482db5d41e5f721dc509",
+                "reference": "1efa57d1180e6018b1b7482db5d41e5f721dc509",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.0.x-dev"
+                }
+            },
+            "autoload": {
+                "classmap": [
+                    "src"
+                ],
+                "psr-4": {
+                    "Eihror\\Compress\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Eihror",
+                    "email": "igor_gmelo@hotmail.com",
+                    "homepage": "http://www.igormelo.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Compress your image without losing quality",
+            "homepage": "https://github.com/eihror/compress-image",
+            "time": "2018-08-03T19:30:08+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
+}

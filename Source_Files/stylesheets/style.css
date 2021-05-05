@@ -1,0 +1,36 @@
+@font-face {
+    font-family: arima-regular;
+    src: url(fonts/ArimaMadurai-Regular.ttf);
+
+    font-family: arima-thin;
+    src: url(fonts/ArimaMadurai-Thin.ttf);
+
+    font-family: arima-light;
+    src: url(fonts/ArimaMadurai-Light.ttf);
+
+    font-family: arima-medium;
+    src: url(fonts/ArimaMadurai-Medium.ttf);
+
+    font-family: arima-black;
+    src: url(fonts/ArimaMadurai-Black.ttf);
+  }
+
+  .facilitiesWrapper{
+    margin:auto;
+    width: 35%;
+  }
+
+  .facilities{
+    list-style-type: none;
+    width: 100%;
+    margin:0px;
+    padding: auto;
+    overflow: hidden;
+    background-color: #d3d3d3;
+  }
+
+  .facilities ul,li {
+      float:left;
+      margin:0px;
+      padding:0px;
+  }
